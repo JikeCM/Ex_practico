@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">grados_educativos</string>
+    <string name="Login">Pantalla de Login</string>
+    <string name="Usuario">Usuario</string>
+    <string name="Contraseña">Contraseña</string>
+    <string name="Entrar">Entrar</string>
+    <string name="Nombre">Nombre de Usuario</string>
+</resources>

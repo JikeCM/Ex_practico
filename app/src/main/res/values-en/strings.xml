@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">schoolar_grades</string>
+    <string name="Login">Login screen</string>
+    <string name="Usuario">User</string>
+    <string name="Contraseña">Password</string>
+    <string name="Entrar">Login</string>
+    <string name="Nombre">Username</string>
+</resources>
