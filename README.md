@@ -7,6 +7,7 @@
 - 
 ## ACLARACIONES
 - Al no tener todos los apuntes no pude hacer parte del programa como la lista o el guardado
+- Intente usar el recyclerview pero no funciono y se me peto todo
 
 ## ELEMENTOS AVANZADOS USADOS
 - Se ha usado el viewbinding
